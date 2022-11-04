@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\obj\Debug\net6.0\BasicProgarmLinkListUC1.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\obj\Debug\net6.0\BasicProgarmLinkListUC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\obj\Debug\net6.0\BasicProgarmLinkListUC1.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\obj\Debug\net6.0\BasicProgarmLinkListUC1.AssemblyInfo.cs
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\obj\Debug\net6.0\BasicProgarmLinkListUC1.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\bin\Debug\net6.0\BasicProgarmLinkListUC1.exe
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\bin\Debug\net6.0\BasicProgarmLinkListUC1.deps.json
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\bin\Debug\net6.0\BasicProgarmLinkListUC1.runtimeconfig.json
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\bin\Debug\net6.0\BasicProgarmLinkListUC1.dll
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\bin\Debug\net6.0\BasicProgarmLinkListUC1.pdb
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\obj\Debug\net6.0\BasicProgarmLinkListUC1.dll
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\obj\Debug\net6.0\refint\BasicProgarmLinkListUC1.dll
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\obj\Debug\net6.0\BasicProgarmLinkListUC1.pdb
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\obj\Debug\net6.0\BasicProgarmLinkListUC1.genruntimeconfig.cache
+C:\LFP-195 Batch\LinkList\UC1\BasicProgarmLinkListUC1\BasicProgarmLinkListUC1\obj\Debug\net6.0\ref\BasicProgarmLinkListUC1.dll
