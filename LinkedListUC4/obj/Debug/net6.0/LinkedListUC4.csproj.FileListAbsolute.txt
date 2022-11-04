@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\bin\Debug\net6.0\LinkedListUC4.exe
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\bin\Debug\net6.0\LinkedListUC4.deps.json
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\bin\Debug\net6.0\LinkedListUC4.runtimeconfig.json
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\bin\Debug\net6.0\LinkedListUC4.dll
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\bin\Debug\net6.0\LinkedListUC4.pdb
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\obj\Debug\net6.0\LinkedListUC4.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\obj\Debug\net6.0\LinkedListUC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\obj\Debug\net6.0\LinkedListUC4.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\obj\Debug\net6.0\LinkedListUC4.AssemblyInfo.cs
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\obj\Debug\net6.0\LinkedListUC4.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\obj\Debug\net6.0\LinkedListUC4.dll
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\obj\Debug\net6.0\refint\LinkedListUC4.dll
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\obj\Debug\net6.0\LinkedListUC4.pdb
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\obj\Debug\net6.0\LinkedListUC4.genruntimeconfig.cache
+C:\LFP-195 Batch\LinkList\UC4\LinkedListUC4\LinkedListUC4\obj\Debug\net6.0\ref\LinkedListUC4.dll
