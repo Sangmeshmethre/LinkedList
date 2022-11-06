@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LinkedListUC7/1.0.0": {
+        "runtime": {
+          "LinkedListUC7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedListUC7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
